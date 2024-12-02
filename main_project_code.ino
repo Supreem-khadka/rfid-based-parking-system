@@ -86,7 +86,7 @@ void loop() {
     return;
   }
 
-  Serial.println("UID tag: ");
+  Serial.println("The UID Tag is as follows: ");
   String card_id = "";
   
   // gives us the cards uid
